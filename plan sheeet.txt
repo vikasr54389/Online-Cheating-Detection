@@ -1,0 +1,8 @@
+1) Interface for capturing video and audio  - 
+2) Select models for video and audio analysis 
+	Video - Eye Detection Model : Yolo,open Cv 
+	Audio - Transcription Model : Whisper
+3) Fine tune the models
+4) Integration of the model with interface 
+5) Report generation 
+6) Future enhacements
